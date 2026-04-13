@@ -1,0 +1,11 @@
+{
+	"name": "memgram",
+	"private": true,
+	"scripts": {
+		"dev": "pnpm --filter memgram-web dev",
+		"build": "pnpm --filter memgram-web build",
+		"check": "pnpm --filter memgram-web check",
+		"lint": "pnpm --filter memgram-web lint",
+		"test": "pnpm --filter memgram-web test"
+	}
+}
