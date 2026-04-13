@@ -1,0 +1,1 @@
+- Project is greenfield, it should never have 'legacy' code or 'legacy' fallbacks, replace/refactor old paths over adding compatibility fallbacks
